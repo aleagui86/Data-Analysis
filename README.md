@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Analysis 📊
 
 This repository is dedicated to data analysis projects, where I explore datasets to derive meaningful insights and support decision-making processes. 
 
