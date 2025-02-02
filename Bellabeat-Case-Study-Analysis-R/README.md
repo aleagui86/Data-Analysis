@@ -49,11 +49,6 @@ Recommendations for Bellabeat include:
 ## Conclusion
 This analysis of Bellabeat data provides valuable insights that can help guide future developments and marketing efforts. By leveraging these findings, Bellabeat can enhance user experience and drive growth in the wellness technology market.
 
-## Google Colab
-
-If you prefer to run the project in the cloud, you can execute it on Google Colab. Simply click the link below to open the notebook and run it:
-[Bellabeat Case Study Analysis - R](https://colab.research.google.com/drive/14gbllYK8NyaU11ifoflnEaIAaADwjcjp?usp=sharing)
-
 ## Technologies Used
 - R
 - RStudio
